@@ -3,76 +3,76 @@
 > Prüffristen, Wartungsintervalle und Länderregeln für Wohnmobil, Wohnwagen und Zugfahrzeug (Deutschland, Österreich, Schweiz und 18 weitere europäische Länder), dazu eine App mit Erinnerungen. Angaben ohne Gewähr, keine Rechtsauskunft.
 
 ## Fristen
-- [Hauptuntersuchung (HU/TÜV)](https://womobutler.de/fristen/hauptuntersuchung-wohnmobil/): Hauptuntersuchung (HU/TÜV): alle 2 Jahre für Wohnmobil/Zugfahrzeug bis 3,5 t; alle 2 Jahre für Wohnmobil 3,5 bis 7,5 t; jährlich für Wohnmobil über 7,5 t; alle 2 Jahre für Wohnwagen.
-- [Gasprüfung G 607](https://womobutler.de/fristen/gaspruefung-wohnmobil/): Gasprüfung G 607: alle 2 Jahre (bei Zulassung in Deutschland). Seit 19.06.2025 wieder Pflicht, alle zwei Jahre. Datum steht im Prüfbuch, das bei jeder Fahrt mitzuführen ist. Bußgeld bei Versäumnis 15 bis 60 €.
-- [§57a-Begutachtung („Pickerl“)](https://womobutler.de/fristen/pickerl-wohnmobil-oesterreich/): §57a-Begutachtung („Pickerl“): jährlich (bei Zulassung in Österreich). Bis 3,5 t: erstmals nach 3 Jahren, dann nach 2 Jahren, danach jährlich („3-2-1“). Über 3,5 t jährlich. Intervall anpassen.
-- [Motorfahrzeugkontrolle (MFK)](https://womobutler.de/fristen/mfk-wohnmobil-schweiz/): Motorfahrzeugkontrolle (MFK): alle 2 Jahre (bei Zulassung in Schweiz). Das Strassenverkehrsamt lädt schriftlich ein. Übliche Folge: nach 4, dann 3, danach alle 2 Jahre. Intervall anpassen.
-- [Gasanlage prüfen lassen](https://womobutler.de/fristen/gasanlage-pruefen-lassen/): Gasanlage prüfen lassen: alle 2 Jahre (bei Zulassung in Österreich, Schweiz). Empfohlen alle zwei Jahre. Genaue Vorgaben beim Fachbetrieb erfragen.
-- [Gasschlauch und Druckregler tauschen](https://womobutler.de/fristen/gasschlauch-druckregler-tauschen/): Gasschlauch und Druckregler tauschen: alle 10 Jahre. Nach zehn Jahren tauschen. Herstelldatum steht auf Schlauch und Regler.
-- [Eigentums-Gasflasche prüfen lassen](https://womobutler.de/fristen/eigentums-gasflasche-pruefen-lassen/): Eigentums-Gasflasche prüfen lassen: alle 10 Jahre. Nur für eigene Flaschen, nicht für Tauschflaschen. Prüfdatum ist in den Flaschenkragen geprägt.
-- [Verbandkasten (Ablaufdatum)](https://womobutler.de/fristen/verbandkasten-ablaufdatum/): Verbandkasten (Ablaufdatum): alle 5 Jahre. Das Ablaufdatum steht auf der Packung. Nach dem Austausch das neue Datum übernehmen. In DE Pflicht nach DIN 13164.
-- [Feuerlöscher warten](https://womobutler.de/fristen/feuerloescher-warten/): Feuerlöscher warten: alle 2 Jahre. Prüfplakette am Löscher. Empfohlen alle zwei Jahre.
-- [Rauchmelder testen, Batterie prüfen](https://womobutler.de/fristen/rauchmelder-testen-batterie-pruefen/): Rauchmelder testen, Batterie prüfen: jährlich. Gut zum Saisonstart beim Auswintern.
-- [Rauchmelder ersetzen](https://womobutler.de/fristen/rauchmelder-ersetzen/): Rauchmelder ersetzen: alle 10 Jahre. Herstelldatum steht auf der Rückseite. Lebensdauer meist zehn Jahre.
-- [CO- und Gaswarner ersetzen](https://womobutler.de/fristen/co-und-gaswarner-ersetzen/): CO- und Gaswarner ersetzen: alle 5 Jahre. Sensoren altern. Lebensdauer laut Hersteller, oft 5 bis 7 Jahre.
-- [Reifenalter (Austausch)](https://womobutler.de/fristen/reifenalter-wohnmobil/): Reifenalter (Austausch): alle 6 Jahre. DOT-Nummer auf der Reifenflanke, z. B. „2321“ = 23. Woche 2021. Empfehlung für Wohnmobile: nach 6 bis 8 Jahren tauschen.
-- [Reifen für Tempo-100-Zulassung](https://womobutler.de/fristen/reifen-fuer-tempo-100-zulassung/): Reifen für Tempo-100-Zulassung: alle 6 Jahre (bei Zulassung in Deutschland). Für Tempo 100 dürfen die Reifen des Wohnwagens höchstens sechs Jahre alt sein (DOT-Datum).
-- [Dichtigkeitsprüfung](https://womobutler.de/fristen/dichtigkeitspruefung-wohnmobil/): Dichtigkeitsprüfung: jährlich. Meist Bedingung der Herstellergarantie. Intervall steht im Garantieheft.
-- [Inspektion und Ölwechsel](https://womobutler.de/fristen/inspektion-und-oelwechsel/): Inspektion und Ölwechsel: jährlich. Laut Serviceplan des Basisfahrzeugs, oft auch nach Kilometern.
-- [Bremsflüssigkeit wechseln](https://womobutler.de/fristen/bremsfluessigkeit-wechseln/): Bremsflüssigkeit wechseln: alle 2 Jahre. Üblich alle zwei Jahre.
-- [Zahnriemen wechseln](https://womobutler.de/fristen/zahnriemen-wechseln/): Zahnriemen wechseln: alle 5 Jahre. Intervall nach Herstellerangabe (Jahre oder Kilometer). Nicht jeder Motor hat einen Zahnriemen.
-- [Klimaanlage warten](https://womobutler.de/fristen/klimaanlage-warten/): Klimaanlage warten: alle 2 Jahre. Kältemittel und Filter prüfen lassen.
-- [Starter- und Aufbaubatterie prüfen](https://womobutler.de/fristen/starter-und-aufbaubatterie-pruefen/): Starter- und Aufbaubatterie prüfen: jährlich. Ladezustand vor dem Einwintern und nach dem Winter prüfen.
-- [Frischwassertank desinfizieren](https://womobutler.de/fristen/frischwassertank-desinfizieren/): Frischwassertank desinfizieren: jährlich. Mindestens zum Saisonstart, bei langer Standzeit öfter.
-- [Heizung und Boiler warten](https://womobutler.de/fristen/heizung-und-boiler-warten/): Heizung und Boiler warten: alle 2 Jahre. Laut Hersteller der Heizung. Boiler bei hartem Wasser jährlich entkalken.
-- [Kühlschrank warten](https://womobutler.de/fristen/kuehlschrank-warten/): Kühlschrank warten: alle 2 Jahre. Absorber-Kühlschränke: Brenner und Abgasweg reinigen lassen.
-- [Dichtungen, Fugen und Dachluken prüfen](https://womobutler.de/fristen/dichtungen-fugen-und-dachluken-pruefen/): Dichtungen, Fugen und Dachluken prüfen: jährlich. Sichtprüfung von Dach, Fenstern und Klappen. Ergänzt die Dichtigkeitsprüfung.
-- [Markise pflegen](https://womobutler.de/fristen/markise-pflegen/): Markise pflegen: jährlich. Gelenke schmieren, Tuch reinigen und trocknen.
-- [Auflaufbremse, Kupplung und Radlager](https://womobutler.de/fristen/auflaufbremse-kupplung-und-radlager/): Auflaufbremse, Kupplung und Radlager: jährlich. Bremse nachstellen, Antischlingerkupplung prüfen, Radlager kontrollieren.
-- [Rangierhilfe (Mover) warten](https://womobutler.de/fristen/rangierhilfe-mover-warten/): Rangierhilfe (Mover) warten: jährlich. Rollen und Anpressung prüfen.
-- [Versicherung (Kündigungsfrist)](https://womobutler.de/fristen/versicherung-kuendigungsfrist/): Versicherung (Kündigungsfrist): jährlich. Als Datum den letzten Kündigungstag eintragen. In DE meist der 30.11. bei Verträgen zum 1.1.
-- [Kfz-Steuer](https://womobutler.de/fristen/kfz-steuer/): Kfz-Steuer: jährlich (bei Zulassung in Deutschland). Fälligkeit steht im Steuerbescheid.
-- [Schutzbrief / Automobilclub](https://womobutler.de/fristen/schutzbrief-automobilclub/): Schutzbrief / Automobilclub: jährlich. Prüfen, ob Fahrzeuge über 3,5 t und Wohnwagen mitversichert sind.
-- [Vignette Österreich](https://womobutler.de/fristen/vignette-oesterreich/): Vignette Österreich: jährlich (für Reisen nach Österreich). Nur bis 3,5 t. Jahresvignette gilt vom 1.12. des Vorjahres bis 31.1. des Folgejahres. Digital oder als Klebevignette.
-- [GO-Box Österreich (Guthaben/Gültigkeit)](https://womobutler.de/fristen/go-box-oesterreich-guthaben-gueltigkeit/): GO-Box Österreich (Guthaben/Gültigkeit): Über 3,5 t gilt statt Vignette die fahrleistungsabhängige Maut mit GO-Box.
-- [Vignette Schweiz](https://womobutler.de/fristen/vignette-schweiz/): Vignette Schweiz: jährlich (für Reisen nach Schweiz). Gilt vom 1.12. des Vorjahres bis 31.1. des Folgejahres. Auch der Wohnwagen braucht eine eigene Vignette.
-- [Schwerverkehrsabgabe Schweiz (PSVA)](https://womobutler.de/fristen/schwerverkehrsabgabe-schweiz-psva/): Schwerverkehrsabgabe Schweiz (PSVA): Über 3,5 t gilt statt Vignette die pauschale Schwerverkehrsabgabe für einen gewählten Zeitraum.
-- [Vignette Slowenien](https://womobutler.de/fristen/vignette-slowenien/): Vignette Slowenien: Nur digital (e-Vignette). Jahresvignette gilt ein Jahr ab Startdatum. Der Wohnwagen braucht keine eigene. Nur bis 3,5 t, darüber gilt Streckenmaut mit Box. Ablaufdatum eintragen.
-- [Vignette Tschechien](https://womobutler.de/fristen/vignette-tschechien/): Vignette Tschechien: Nur online auf edalnice.cz. Jahresvignette gilt 365 Tage ab Startdatum. Nur bis 3,5 t, darüber gilt Streckenmaut mit Box. Ablaufdatum eintragen.
-- [Vignette Slowakei](https://womobutler.de/fristen/vignette-slowakei/): Vignette Slowakei: Online auf eznamka.sk. Wohnwagen braucht eine eigene Vignette. Nur bis 3,5 t, darüber gilt Streckenmaut mit Box. Ablaufdatum eintragen.
-- [Vignette Ungarn (e-matrica)](https://womobutler.de/fristen/vignette-ungarn-e-matrica/): Vignette Ungarn (e-matrica): Kategorie D1 bis 3,5 t. Für den Wohnwagen gibt es eine eigene Anhänger-Vignette. Nur bis 3,5 t, darüber gilt Streckenmaut mit Box. Ablaufdatum eintragen.
+- [Hauptuntersuchung (HU/TÜV)](https://www.womobutler.de/fristen/hauptuntersuchung-wohnmobil/): Hauptuntersuchung (HU/TÜV): alle 2 Jahre für Wohnmobil/Zugfahrzeug bis 3,5 t; alle 2 Jahre für Wohnmobil 3,5 bis 7,5 t; jährlich für Wohnmobil über 7,5 t; alle 2 Jahre für Wohnwagen.
+- [Gasprüfung G 607](https://www.womobutler.de/fristen/gaspruefung-wohnmobil/): Gasprüfung G 607: alle 2 Jahre (bei Zulassung in Deutschland). Seit 19.06.2025 wieder Pflicht, alle zwei Jahre. Datum steht im Prüfbuch, das bei jeder Fahrt mitzuführen ist. Bußgeld bei Versäumnis 15 bis 60 €.
+- [§57a-Begutachtung („Pickerl“)](https://www.womobutler.de/fristen/pickerl-wohnmobil-oesterreich/): §57a-Begutachtung („Pickerl“): jährlich (bei Zulassung in Österreich). Bis 3,5 t: erstmals nach 3 Jahren, dann nach 2 Jahren, danach jährlich („3-2-1“). Über 3,5 t jährlich. Intervall anpassen.
+- [Motorfahrzeugkontrolle (MFK)](https://www.womobutler.de/fristen/mfk-wohnmobil-schweiz/): Motorfahrzeugkontrolle (MFK): alle 2 Jahre (bei Zulassung in Schweiz). Das Strassenverkehrsamt lädt schriftlich ein. Übliche Folge: nach 4, dann 3, danach alle 2 Jahre. Intervall anpassen.
+- [Gasanlage prüfen lassen](https://www.womobutler.de/fristen/gasanlage-pruefen-lassen/): Gasanlage prüfen lassen: alle 2 Jahre (bei Zulassung in Österreich, Schweiz). Empfohlen alle zwei Jahre. Genaue Vorgaben beim Fachbetrieb erfragen.
+- [Gasschlauch und Druckregler tauschen](https://www.womobutler.de/fristen/gasschlauch-druckregler-tauschen/): Gasschlauch und Druckregler tauschen: alle 10 Jahre. Nach zehn Jahren tauschen. Herstelldatum steht auf Schlauch und Regler.
+- [Eigentums-Gasflasche prüfen lassen](https://www.womobutler.de/fristen/eigentums-gasflasche-pruefen-lassen/): Eigentums-Gasflasche prüfen lassen: alle 10 Jahre. Nur für eigene Flaschen, nicht für Tauschflaschen. Prüfdatum ist in den Flaschenkragen geprägt.
+- [Verbandkasten (Ablaufdatum)](https://www.womobutler.de/fristen/verbandkasten-ablaufdatum/): Verbandkasten (Ablaufdatum): alle 5 Jahre. Das Ablaufdatum steht auf der Packung. Nach dem Austausch das neue Datum übernehmen. In DE Pflicht nach DIN 13164.
+- [Feuerlöscher warten](https://www.womobutler.de/fristen/feuerloescher-warten/): Feuerlöscher warten: alle 2 Jahre. Prüfplakette am Löscher. Empfohlen alle zwei Jahre.
+- [Rauchmelder testen, Batterie prüfen](https://www.womobutler.de/fristen/rauchmelder-testen-batterie-pruefen/): Rauchmelder testen, Batterie prüfen: jährlich. Gut zum Saisonstart beim Auswintern.
+- [Rauchmelder ersetzen](https://www.womobutler.de/fristen/rauchmelder-ersetzen/): Rauchmelder ersetzen: alle 10 Jahre. Herstelldatum steht auf der Rückseite. Lebensdauer meist zehn Jahre.
+- [CO- und Gaswarner ersetzen](https://www.womobutler.de/fristen/co-und-gaswarner-ersetzen/): CO- und Gaswarner ersetzen: alle 5 Jahre. Sensoren altern. Lebensdauer laut Hersteller, oft 5 bis 7 Jahre.
+- [Reifenalter (Austausch)](https://www.womobutler.de/fristen/reifenalter-wohnmobil/): Reifenalter (Austausch): alle 6 Jahre. DOT-Nummer auf der Reifenflanke, z. B. „2321“ = 23. Woche 2021. Empfehlung für Wohnmobile: nach 6 bis 8 Jahren tauschen.
+- [Reifen für Tempo-100-Zulassung](https://www.womobutler.de/fristen/reifen-fuer-tempo-100-zulassung/): Reifen für Tempo-100-Zulassung: alle 6 Jahre (bei Zulassung in Deutschland). Für Tempo 100 dürfen die Reifen des Wohnwagens höchstens sechs Jahre alt sein (DOT-Datum).
+- [Dichtigkeitsprüfung](https://www.womobutler.de/fristen/dichtigkeitspruefung-wohnmobil/): Dichtigkeitsprüfung: jährlich. Meist Bedingung der Herstellergarantie. Intervall steht im Garantieheft.
+- [Inspektion und Ölwechsel](https://www.womobutler.de/fristen/inspektion-und-oelwechsel/): Inspektion und Ölwechsel: jährlich. Laut Serviceplan des Basisfahrzeugs, oft auch nach Kilometern.
+- [Bremsflüssigkeit wechseln](https://www.womobutler.de/fristen/bremsfluessigkeit-wechseln/): Bremsflüssigkeit wechseln: alle 2 Jahre. Üblich alle zwei Jahre.
+- [Zahnriemen wechseln](https://www.womobutler.de/fristen/zahnriemen-wechseln/): Zahnriemen wechseln: alle 5 Jahre. Intervall nach Herstellerangabe (Jahre oder Kilometer). Nicht jeder Motor hat einen Zahnriemen.
+- [Klimaanlage warten](https://www.womobutler.de/fristen/klimaanlage-warten/): Klimaanlage warten: alle 2 Jahre. Kältemittel und Filter prüfen lassen.
+- [Starter- und Aufbaubatterie prüfen](https://www.womobutler.de/fristen/starter-und-aufbaubatterie-pruefen/): Starter- und Aufbaubatterie prüfen: jährlich. Ladezustand vor dem Einwintern und nach dem Winter prüfen.
+- [Frischwassertank desinfizieren](https://www.womobutler.de/fristen/frischwassertank-desinfizieren/): Frischwassertank desinfizieren: jährlich. Mindestens zum Saisonstart, bei langer Standzeit öfter.
+- [Heizung und Boiler warten](https://www.womobutler.de/fristen/heizung-und-boiler-warten/): Heizung und Boiler warten: alle 2 Jahre. Laut Hersteller der Heizung. Boiler bei hartem Wasser jährlich entkalken.
+- [Kühlschrank warten](https://www.womobutler.de/fristen/kuehlschrank-warten/): Kühlschrank warten: alle 2 Jahre. Absorber-Kühlschränke: Brenner und Abgasweg reinigen lassen.
+- [Dichtungen, Fugen und Dachluken prüfen](https://www.womobutler.de/fristen/dichtungen-fugen-und-dachluken-pruefen/): Dichtungen, Fugen und Dachluken prüfen: jährlich. Sichtprüfung von Dach, Fenstern und Klappen. Ergänzt die Dichtigkeitsprüfung.
+- [Markise pflegen](https://www.womobutler.de/fristen/markise-pflegen/): Markise pflegen: jährlich. Gelenke schmieren, Tuch reinigen und trocknen.
+- [Auflaufbremse, Kupplung und Radlager](https://www.womobutler.de/fristen/auflaufbremse-kupplung-und-radlager/): Auflaufbremse, Kupplung und Radlager: jährlich. Bremse nachstellen, Antischlingerkupplung prüfen, Radlager kontrollieren.
+- [Rangierhilfe (Mover) warten](https://www.womobutler.de/fristen/rangierhilfe-mover-warten/): Rangierhilfe (Mover) warten: jährlich. Rollen und Anpressung prüfen.
+- [Versicherung (Kündigungsfrist)](https://www.womobutler.de/fristen/versicherung-kuendigungsfrist/): Versicherung (Kündigungsfrist): jährlich. Als Datum den letzten Kündigungstag eintragen. In DE meist der 30.11. bei Verträgen zum 1.1.
+- [Kfz-Steuer](https://www.womobutler.de/fristen/kfz-steuer/): Kfz-Steuer: jährlich (bei Zulassung in Deutschland). Fälligkeit steht im Steuerbescheid.
+- [Schutzbrief / Automobilclub](https://www.womobutler.de/fristen/schutzbrief-automobilclub/): Schutzbrief / Automobilclub: jährlich. Prüfen, ob Fahrzeuge über 3,5 t und Wohnwagen mitversichert sind.
+- [Vignette Österreich](https://www.womobutler.de/fristen/vignette-oesterreich/): Vignette Österreich: jährlich (für Reisen nach Österreich). Nur bis 3,5 t. Jahresvignette gilt vom 1.12. des Vorjahres bis 31.1. des Folgejahres. Digital oder als Klebevignette.
+- [GO-Box Österreich (Guthaben/Gültigkeit)](https://www.womobutler.de/fristen/go-box-oesterreich-guthaben-gueltigkeit/): GO-Box Österreich (Guthaben/Gültigkeit): Über 3,5 t gilt statt Vignette die fahrleistungsabhängige Maut mit GO-Box.
+- [Vignette Schweiz](https://www.womobutler.de/fristen/vignette-schweiz/): Vignette Schweiz: jährlich (für Reisen nach Schweiz). Gilt vom 1.12. des Vorjahres bis 31.1. des Folgejahres. Auch der Wohnwagen braucht eine eigene Vignette.
+- [Schwerverkehrsabgabe Schweiz (PSVA)](https://www.womobutler.de/fristen/schwerverkehrsabgabe-schweiz-psva/): Schwerverkehrsabgabe Schweiz (PSVA): Über 3,5 t gilt statt Vignette die pauschale Schwerverkehrsabgabe für einen gewählten Zeitraum.
+- [Vignette Slowenien](https://www.womobutler.de/fristen/vignette-slowenien/): Vignette Slowenien: Nur digital (e-Vignette). Jahresvignette gilt ein Jahr ab Startdatum. Der Wohnwagen braucht keine eigene. Nur bis 3,5 t, darüber gilt Streckenmaut mit Box. Ablaufdatum eintragen.
+- [Vignette Tschechien](https://www.womobutler.de/fristen/vignette-tschechien/): Vignette Tschechien: Nur online auf edalnice.cz. Jahresvignette gilt 365 Tage ab Startdatum. Nur bis 3,5 t, darüber gilt Streckenmaut mit Box. Ablaufdatum eintragen.
+- [Vignette Slowakei](https://www.womobutler.de/fristen/vignette-slowakei/): Vignette Slowakei: Online auf eznamka.sk. Wohnwagen braucht eine eigene Vignette. Nur bis 3,5 t, darüber gilt Streckenmaut mit Box. Ablaufdatum eintragen.
+- [Vignette Ungarn (e-matrica)](https://www.womobutler.de/fristen/vignette-ungarn-e-matrica/): Vignette Ungarn (e-matrica): Kategorie D1 bis 3,5 t. Für den Wohnwagen gibt es eine eigene Anhänger-Vignette. Nur bis 3,5 t, darüber gilt Streckenmaut mit Box. Ablaufdatum eintragen.
 
 ## Länderregeln für Wohnmobile
-- [Wohnmobil in Deutschland](https://womobutler.de/laender/wohnmobil-deutschland/): Pflichtausrüstung, Winter, Maut, Tempolimits
-- [Wohnmobil in Österreich](https://womobutler.de/laender/wohnmobil-oesterreich/): Pflichtausrüstung, Winter, Maut, Tempolimits
-- [Wohnmobil in Schweiz](https://womobutler.de/laender/wohnmobil-schweiz/): Pflichtausrüstung, Winter, Maut, Tempolimits
-- [Wohnmobil in Frankreich](https://womobutler.de/laender/wohnmobil-frankreich/): Pflichtausrüstung, Winter, Maut, Tempolimits
-- [Wohnmobil in Italien](https://womobutler.de/laender/wohnmobil-italien/): Pflichtausrüstung, Winter, Maut, Tempolimits
-- [Wohnmobil in Spanien](https://womobutler.de/laender/wohnmobil-spanien/): Pflichtausrüstung, Winter, Maut, Tempolimits
-- [Wohnmobil in Portugal](https://womobutler.de/laender/wohnmobil-portugal/): Pflichtausrüstung, Winter, Maut, Tempolimits
-- [Wohnmobil in Niederlande](https://womobutler.de/laender/wohnmobil-niederlande/): Pflichtausrüstung, Winter, Maut, Tempolimits
-- [Wohnmobil in Belgien](https://womobutler.de/laender/wohnmobil-belgien/): Pflichtausrüstung, Winter, Maut, Tempolimits
-- [Wohnmobil in Luxemburg](https://womobutler.de/laender/wohnmobil-luxemburg/): Pflichtausrüstung, Winter, Maut, Tempolimits
-- [Wohnmobil in Dänemark](https://womobutler.de/laender/wohnmobil-daenemark/): Pflichtausrüstung, Winter, Maut, Tempolimits
-- [Wohnmobil in Schweden](https://womobutler.de/laender/wohnmobil-schweden/): Pflichtausrüstung, Winter, Maut, Tempolimits
-- [Wohnmobil in Norwegen](https://womobutler.de/laender/wohnmobil-norwegen/): Pflichtausrüstung, Winter, Maut, Tempolimits
-- [Wohnmobil in Polen](https://womobutler.de/laender/wohnmobil-polen/): Pflichtausrüstung, Winter, Maut, Tempolimits
-- [Wohnmobil in Tschechien](https://womobutler.de/laender/wohnmobil-tschechien/): Pflichtausrüstung, Winter, Maut, Tempolimits
-- [Wohnmobil in Slowakei](https://womobutler.de/laender/wohnmobil-slowakei/): Pflichtausrüstung, Winter, Maut, Tempolimits
-- [Wohnmobil in Ungarn](https://womobutler.de/laender/wohnmobil-ungarn/): Pflichtausrüstung, Winter, Maut, Tempolimits
-- [Wohnmobil in Slowenien](https://womobutler.de/laender/wohnmobil-slowenien/): Pflichtausrüstung, Winter, Maut, Tempolimits
-- [Wohnmobil in Kroatien](https://womobutler.de/laender/wohnmobil-kroatien/): Pflichtausrüstung, Winter, Maut, Tempolimits
-- [Wohnmobil in Griechenland](https://womobutler.de/laender/wohnmobil-griechenland/): Pflichtausrüstung, Winter, Maut, Tempolimits
-- [Wohnmobil in Großbritannien](https://womobutler.de/laender/wohnmobil-grossbritannien/): Pflichtausrüstung, Winter, Maut, Tempolimits
+- [Wohnmobil in Deutschland](https://www.womobutler.de/laender/wohnmobil-deutschland/): Pflichtausrüstung, Winter, Maut, Tempolimits
+- [Wohnmobil in Österreich](https://www.womobutler.de/laender/wohnmobil-oesterreich/): Pflichtausrüstung, Winter, Maut, Tempolimits
+- [Wohnmobil in Schweiz](https://www.womobutler.de/laender/wohnmobil-schweiz/): Pflichtausrüstung, Winter, Maut, Tempolimits
+- [Wohnmobil in Frankreich](https://www.womobutler.de/laender/wohnmobil-frankreich/): Pflichtausrüstung, Winter, Maut, Tempolimits
+- [Wohnmobil in Italien](https://www.womobutler.de/laender/wohnmobil-italien/): Pflichtausrüstung, Winter, Maut, Tempolimits
+- [Wohnmobil in Spanien](https://www.womobutler.de/laender/wohnmobil-spanien/): Pflichtausrüstung, Winter, Maut, Tempolimits
+- [Wohnmobil in Portugal](https://www.womobutler.de/laender/wohnmobil-portugal/): Pflichtausrüstung, Winter, Maut, Tempolimits
+- [Wohnmobil in Niederlande](https://www.womobutler.de/laender/wohnmobil-niederlande/): Pflichtausrüstung, Winter, Maut, Tempolimits
+- [Wohnmobil in Belgien](https://www.womobutler.de/laender/wohnmobil-belgien/): Pflichtausrüstung, Winter, Maut, Tempolimits
+- [Wohnmobil in Luxemburg](https://www.womobutler.de/laender/wohnmobil-luxemburg/): Pflichtausrüstung, Winter, Maut, Tempolimits
+- [Wohnmobil in Dänemark](https://www.womobutler.de/laender/wohnmobil-daenemark/): Pflichtausrüstung, Winter, Maut, Tempolimits
+- [Wohnmobil in Schweden](https://www.womobutler.de/laender/wohnmobil-schweden/): Pflichtausrüstung, Winter, Maut, Tempolimits
+- [Wohnmobil in Norwegen](https://www.womobutler.de/laender/wohnmobil-norwegen/): Pflichtausrüstung, Winter, Maut, Tempolimits
+- [Wohnmobil in Polen](https://www.womobutler.de/laender/wohnmobil-polen/): Pflichtausrüstung, Winter, Maut, Tempolimits
+- [Wohnmobil in Tschechien](https://www.womobutler.de/laender/wohnmobil-tschechien/): Pflichtausrüstung, Winter, Maut, Tempolimits
+- [Wohnmobil in Slowakei](https://www.womobutler.de/laender/wohnmobil-slowakei/): Pflichtausrüstung, Winter, Maut, Tempolimits
+- [Wohnmobil in Ungarn](https://www.womobutler.de/laender/wohnmobil-ungarn/): Pflichtausrüstung, Winter, Maut, Tempolimits
+- [Wohnmobil in Slowenien](https://www.womobutler.de/laender/wohnmobil-slowenien/): Pflichtausrüstung, Winter, Maut, Tempolimits
+- [Wohnmobil in Kroatien](https://www.womobutler.de/laender/wohnmobil-kroatien/): Pflichtausrüstung, Winter, Maut, Tempolimits
+- [Wohnmobil in Griechenland](https://www.womobutler.de/laender/wohnmobil-griechenland/): Pflichtausrüstung, Winter, Maut, Tempolimits
+- [Wohnmobil in Großbritannien](https://www.womobutler.de/laender/wohnmobil-grossbritannien/): Pflichtausrüstung, Winter, Maut, Tempolimits
 
 ## Checklisten
-- [Wohnmobil Abfahrt](https://womobutler.de/checklisten/wohnmobil-abfahrt-checkliste/)
-- [Wohnmobil Ankunft](https://womobutler.de/checklisten/wohnmobil-ankunft-checkliste/)
-- [Wohnmobil Einwintern](https://womobutler.de/checklisten/wohnmobil-einwintern-checkliste/)
-- [Wohnmobil Auswintern](https://womobutler.de/checklisten/wohnmobil-auswintern-checkliste/)
+- [Wohnmobil Abfahrt](https://www.womobutler.de/checklisten/wohnmobil-abfahrt-checkliste/)
+- [Wohnmobil Ankunft](https://www.womobutler.de/checklisten/wohnmobil-ankunft-checkliste/)
+- [Wohnmobil Einwintern](https://www.womobutler.de/checklisten/wohnmobil-einwintern-checkliste/)
+- [Wohnmobil Auswintern](https://www.womobutler.de/checklisten/wohnmobil-auswintern-checkliste/)
 
 ## Werkzeuge
-- [Gasprüfung-Rechner](https://womobutler.de/gaspruefung-rechner/): Nächste Gasprüfung G 607 aus dem Datum der letzten berechnen.
+- [Gasprüfung-Rechner](https://www.womobutler.de/gaspruefung-rechner/): Nächste Gasprüfung G 607 aus dem Datum der letzten berechnen.
 
 ## App
 - Womo-Butler für Android und iOS: Fristen mit Vorlagen und Erinnerungen, Serviceheft mit Belegfotos, Fahrzeugmappe als PDF, Checklisten, Länderregeln. Kostenlos nutzbar, Pro 9,99 € pro Jahr. Kein Konto, keine Werbung, Daten bleiben auf dem Gerät.
