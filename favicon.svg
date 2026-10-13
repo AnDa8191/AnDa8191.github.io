@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#F2A877"/><stop offset="0.55" stop-color="#EE9C92"/><stop offset="1" stop-color="#E890AE"/>
+</linearGradient>
+<radialGradient id="glow" cx="0.3" cy="0.2" r="0.8">
+  <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.35"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+</radialGradient><clipPath id="c"><rect width="1024" height="1024" rx="230"/></clipPath></defs>
+  <g clip-path="url(#c)"><rect width="1024" height="1024" fill="url(#bg)"/><rect width="1024" height="1024" fill="url(#glow)"/>
+  <g transform="translate(512 512) scale(0.82) translate(-527 -500)">
+  <g>
+    <!-- shadow -->
+    <ellipse cx="500" cy="742" rx="330" ry="22" fill="#6E1239" opacity="0.18"/>
+    <!-- body: living box + alcove + cab -->
+    <rect x="174" y="330" width="560" height="360" rx="40" fill="#FFFFFF"/>
+    <rect x="600" y="330" width="250" height="108" rx="44" fill="#FFFFFF"/>
+    <path fill="#FFFFFF" d="M690 458 H806 L870 552 Q880 568 880 588 V650 Q880 690 840 690 H690 Z"/>
+    <!-- roof light and alcove window -->
+    <rect x="450" y="300" width="120" height="34" rx="12" fill="#FFFFFF"/>
+    <rect x="752" y="360" width="64" height="44" rx="14" fill="#8E1C4C"/>
+    <!-- stripe -->
+    <rect x="174" y="566" width="706" height="26" fill="#8E1C4C" opacity="0.9"/>
+    <!-- living window -->
+    <rect x="236" y="398" width="176" height="104" rx="24" fill="#8E1C4C" />
+    <!-- door -->
+    <rect x="452" y="398" width="96" height="216" rx="20" fill="none" stroke="#8E1C4C" stroke-width="14"/>
+    <circle cx="530" cy="512" r="9" fill="#8E1C4C"/>
+    <!-- windshield -->
+    <path d="M716 480 H792 L842 554 H716 Z" fill="#8E1C4C" stroke-linejoin="round"/>
+    <!-- wheels -->
+    <circle cx="322" cy="690" r="66" fill="#4B1528" stroke="#FFFFFF" stroke-width="14"/>
+    <circle cx="322" cy="690" r="24" fill="#FFFFFF"/>
+    <circle cx="742" cy="690" r="66" fill="#4B1528" stroke="#FFFFFF" stroke-width="14"/>
+    <circle cx="742" cy="690" r="24" fill="#FFFFFF"/>
+    <!-- deadline badge: clock -->
+    <circle cx="300" cy="226" r="112" fill="#8E1C4C" stroke="#FFFFFF" stroke-width="18"/>
+    <circle cx="300" cy="226" r="66" fill="none" stroke="#FFFFFF" stroke-width="18"/>
+    <path d="M300 186 V228 L328 248" fill="none" stroke="#FFFFFF" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  </g></g></g>
+</svg>
